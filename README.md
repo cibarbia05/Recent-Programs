@@ -1,4 +1,3 @@
-# Recent-Programs
-1-Connect Four Game
+Connect Four Game
 
 © Christian Ibarbia
